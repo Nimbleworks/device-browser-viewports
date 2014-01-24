@@ -13,8 +13,8 @@
     },
     {
         "name":"iPhone 5",
-        "width":320,
-        "height":568,
+        "width":640,
+        "height":1136,
         "orientation": true
     },
 	{
@@ -91,8 +91,8 @@
 	},
 	{
 		"name":"Nokia Lumia",
-		"width":320,
-		"height":480,
+		"width":480,
+		"height":800,
 		"orientation":true
 	}
 ]
