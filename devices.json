@@ -124,5 +124,12 @@
         "width":360,
         "height":640,
         "orientation":true
+    },
+    {
+        "id": 19,
+        "name": "Galaxy S2",
+        "width": 230,
+        "height": 533,
+        "orientation": true
     }
 ]
