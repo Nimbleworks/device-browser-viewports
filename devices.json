@@ -131,6 +131,13 @@
         "width":800,
         "height":1280,
         "orientation": true
+     },
+        {
+        "id": 20,
+        "name":"Samsung S3",
+        "width":720,
+        "height":1280,
+        "orientation": true
     }
 
 ]
